@@ -1,0 +1,38 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+
+.container-fluid {
+  background-color: #ffffff;
+}
+  
+.navbar-brand img {
+  height: 50px;
+}
+
+
+
+
+.banner-image img {
+  width: 100%;
+}
+
+.banner-form {
+  background-color: #f8f9fa;
+  padding: 60px 0;
+
+}
+
+
+.cursos {
+  background-color: #f8f9fa;
+  padding-bottom: 20px;
+}
+
+
+
+
+
+
